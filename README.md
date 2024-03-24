@@ -1,4 +1,4 @@
-# clocky
+# <img src="public/favicon.ico" height=20> clocky
 
 The minimal clock app built with vue.js.
 
