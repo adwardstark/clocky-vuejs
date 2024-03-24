@@ -2,6 +2,11 @@
 
 The minimal clock app built with vue.js.
 
+<p>
+    <img src="screenshots/dark.png" height=200 alt="dark">
+    <img src="screenshots/light.png" height=200 alt="light">
+</p>
+
 ## Recommended IDE Setup
 
 [VSCode](https://code.visualstudio.com/) + [Volar](https://marketplace.visualstudio.com/items?itemName=Vue.volar) (and disable Vetur).
